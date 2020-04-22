@@ -11,3 +11,7 @@ Diameter: 33cm. Thickness: 3mm. Material: Acrylic
 ## 3)Top Plate
 Diameter: 40cm. Thickness: 5mm. Material: Acrylic
 ![TopPlate](https://user-images.githubusercontent.com/64123696/79947405-8d0f4780-848f-11ea-93de-5b8b6567dfa6.PNG)
+
+## Assembled Robot
+![Assembled Bot](https://user-images.githubusercontent.com/64123696/79949101-a1087880-8492-11ea-9519-762af3da249f.jpeg)
+
